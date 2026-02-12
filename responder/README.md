@@ -7,7 +7,7 @@ An initial TCP port scan was performed against the target machine to identify ex
 ### Command
 
 ```bash
-nmap -sC -sV -O -T4 10.129.95.234
+nmap -sV -sC -O -T4 10.129.95.234
 ```
 
 ### Results
